@@ -40,7 +40,7 @@ let g:airline_symbols.branch = ''
 let g:airline_symbols.readonly = ''
 let g:airline_symbols.linenr = ''
 
-:colorscheme sonokai
+:colorscheme angr
 
 " use <tab> for trigger completion and navigate to the next complete item
 function! s:check_back_space() abort
